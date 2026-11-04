@@ -1,6 +1,1 @@
-Pedagogické portfolio <br>
-Navazující magisterské studium <br>
-Bc. Vondráková Aneta (D26233) <br>
-Katedra technické a informační výchovy <br>
-Pedagogická fakulta, UPOL
-
+Tato část portfolia slouží k prezentaci relevantních metodických a didaktických souborů, jako jsou výukové materiály, prezentace, plány hodin, výukové aplikace, odkazy na online testy, které jste vytvořili, pracovní listy a další.
