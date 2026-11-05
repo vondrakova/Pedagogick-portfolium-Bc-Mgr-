@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Praha", 
+    "lat": "50.0875", 
+    "lng": "14.4214", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Praha"
+
+  }, 
+  {
+    "city": "Brno", 
+    "lat": "49.1925", 
+    "lng": "16.6083", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Jihomoravský Kraj"
+  }, 
+  {
+    "city": "Ostrava", 
+    "lat": "49.8356", 
+    "lng": "18.2925", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Moravskoslezský Kraj"
+  }, 
+  {
+    "city": "Plzeň", 
+    "lat": "49.7475", 
+    "lng": "13.3775", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Plzeňský Kraj"
+  }, 
+  {
+    "city": "Liberec", 
+    "lat": "50.7667", 
+    "lng": "15.0667", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Liberecký Kraj"
+  }, 
+  {
+    "city": "Olomouc", 
+    "lat": "49.5939", 
+    "lng": "17.2508", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Olomoucký Kraj"
+  }, 
+  {
+    "city": "České Budějovice", 
+    "lat": "48.9747", 
+    "lng": "14.4747", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Jihočeský Kraj"
+  }, 
+  {
+    "city": "Hradec Králové", 
+    "lat": "50.2092", 
+    "lng": "15.8322", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Královéhradecký Kraj"
+  }, 
+  {
+    "city": "Pardubice", 
+    "lat": "50.0386", 
+    "lng": "15.7792", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Pardubický Kraj"
+  }, 
+  {
+    "city": "Ústí nad Labem", 
+    "lat": "50.6583", 
+    "lng": "14.0417", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Ústecký Kraj"
+  }, 
+  {
+    "city": "Zlín", 
+    "lat": "49.2331", 
+    "lng": "17.6669", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Zlínský Kraj"
+  }, 
+
+  {
+    "city": "Jihlava", 
+    "lat": "49.4003", 
+    "lng": "15.5906", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Vysočina"
+  }, 
+  
+  {
+    "city": "Karlovy Vary", 
+    "lat": "50.2306", 
+    "lng": "12.8725", 
+    "country": "Czechia", 
+    "iso2": "CZ", 
+    "admin_name": "Karlovarský Kraj"
+  } 
+
+]
